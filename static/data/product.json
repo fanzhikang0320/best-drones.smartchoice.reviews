@@ -1,0 +1,98 @@
+{
+    "data": [
+        {
+            "name": "DroneX Pro",
+            "picture": "/data/img/DroneXPro.png",
+            "link": "https://hypertechx.com/ps/dronexpro/index.php?net=9785&aff={AFFID}&sid={SUBID}&cid={CLICKID}",
+            "strengthList": [
+                {
+                    "text": "Precision Flight Performance Technology"
+                },
+                {
+                    "text": "Ultra-Wide Camera Angle"
+                },
+                {
+                    "text": "See The World & Shoot Like A Pro"
+                },
+                {
+                    "text": "Finely Tuned Control, At Your Command"
+                },
+                {
+                    "text": "3 Speed Mode"
+                },
+                {
+                    "text": "Portable, Follow You On Travels"
+                }
+            ],
+            "score": 9.8
+        },
+        {
+            "name": "Tactic AIR Drone",
+            "picture": "/data/img/TacticAIRDrone.png",
+            "link": "https://hypertechx.com/ps/tacticairdrone/index.php?net=9785&aff={AFFID}&sid={SUBID}&cid={CLICKID}",
+            "strengthList": [
+                {
+                    "text": "Smart Follow Me Mode / Private Photographer"
+                },
+                {
+                    "text": "Dual Camera & Picture-in-Picture Display"
+                },
+                {
+                    "text": "Intelligent Gesture Recognition Control"
+                },
+                {
+                    "text": "Motorized Active 4K Camera"
+                },
+                {
+                    "text": "Modular 20 Min Long Fly Time Battery"
+                },
+                {
+                    "text": "Optical Flow Positioning"
+                }
+            ],
+            "score": 9.6
+        },
+        {
+            "name": "Shadow X Drone",
+            "picture": "/data/img/ShadowXDrone.png",
+            "link": "https://www.frstbte.com/7QLQCMW/5QRNGM3/?uid=9825",
+            "strengthList": [
+                {
+                    "text": "Fully Loaded for Superioe Durability & Easy Handling"
+                },
+                {
+                    "text": "Record Video in HD at Grame Per Second"
+                },
+                {
+                    "text": "Replay the High Lights of Your Great Moments"
+                },
+                {
+                    "text": "Gravity Sensor Detect the Ground and Other Obstacles"
+                }
+            ],
+            "score": 9.3
+        },
+        {
+            "name": "Explore Air",
+            "picture": "/data/img/ExploreAir.png",
+            "link": "https://hypertechx.com/ps/exploreair/index.php?net=9785&aff={AFFID}&sid={SUBID}&cid={CLICKID}",
+            "strengthList": [
+                {
+                    "text": "Advanced Stability With Dedicated Processor Unit"
+                },
+                {
+                    "text": "Ultra-Wide Angle Camera 120° For Breathtaking Images"
+                },
+                {
+                    "text": "Easy to Use Remote Controller For Excellent Flight Precision"
+                },
+                {
+                    "text": "Long Flight Time Rated 12-15 Minutes With One single Charge"
+                }
+            ],
+            "score": 9.1
+        }
+    ]
+}
+
+

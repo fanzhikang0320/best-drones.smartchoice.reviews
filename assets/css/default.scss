@@ -1,0 +1,95 @@
+html,body {
+    font-family: 'Montserrat-Light', "Helvetica", "Arial", sans-serif;
+    width: 100%;
+    height: 100%;
+  }
+  #__nuxt,#__layout {
+      width: 100%;
+      height: 100%;
+  }
+  .app {
+      height: 100%;
+      width: 100%;
+
+  }
+  main {
+      min-height: 100%;
+  }
+  header {
+    width: $rootWidth;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+    .header-left {
+  
+        .logo {
+            display: inline-block;
+            width: 219px;
+            height: 35px;
+            vertical-align: middle;
+        }
+        p {
+            display: inline-block;
+            vertical-align: middle;
+            height: 35px;
+            line-height: 35px;
+            border-left: 1px solid #bbbbbb;
+            padding-left: 13px;
+            margin-left: 10px;
+            color:#308FF3;
+        }
+    }
+    .btn {
+        display: block;
+        width: 240px;
+        height: 68px;
+        line-height: 68px;
+        text-align: center;
+        background-color:#308FF3;
+        color: #ffffff;
+        font-size: 18;
+        font-family: 'Montserrat';
+        font-weight: bold;
+        text-decoration: none;
+    }
+  }
+  
+  footer {
+     width: 100%;
+     background-color: #353535;
+  
+     .footer-main {
+          width: $rootWidth;
+          margin: auto;
+          padding: 16px 0px 35px 0px;
+          .footer-logo {
+              display: block;
+              width: 285px;
+              height: 44px;
+          }
+          .content {
+              font-size: 14px;
+              color: #a8a7a7;
+              line-height: 16px;
+              margin: 13px 0px;
+              p {
+                  margin: 7px 0;
+              }
+          }
+          .footer-nav-list {
+              li {
+                  float: left;
+                  a {
+                      text-decoration: none;
+                      color: #ffffff;
+                      font-size: 14px;
+                      border-bottom: 1px solid #ffffff;
+                      margin-right: 43px;
+                  }
+              }
+          }
+      }
+  }
